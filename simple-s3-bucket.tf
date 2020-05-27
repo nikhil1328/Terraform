@@ -1,6 +1,6 @@
   
 ### Wednesday May 27 2020 20:50 IST 
-## Purpose ## Terraform template to S# bucket. ##
+## Purpose ## Terraform template to Create S3 bucket. ##
 ## Created by Nikhil Kulkarni ###
 
 #########################################################################################################################
